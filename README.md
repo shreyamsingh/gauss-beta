@@ -1,2 +1,2 @@
 # gauss-beta
-Machine Learning Quarter 2 Project
+AJ Seo & Shreya Singh - Machine Learning Quarter 2 Project
